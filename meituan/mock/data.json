@@ -1,0 +1,2593 @@
+{
+    "data": {
+        "outOfRange": 0,
+        "mtWmPoiId": "72667274895191259",
+        "dpShopId": 0,
+        "shopStatus": 0,
+        "shopPage": false,
+        "shopInfo": {
+            "shopName": "久久丫鸭脖（温阳路地铁站店）",
+            "shopPic": "http://p1.meituan.net/waimaipoi/b592f683107f9b2bbd34db72089468e817431.jpg",
+            "deliveryFee": 7.0,
+            "deliveryType": 0,
+            "deliveryTime": 0,
+            "deliveryTimeDecoded": "&#xed35;&#xe634;",
+            "deliveryMsg": "由美团快送提供配送服务",
+            "minFee": 20.0,
+            "minFeeDecoded": "&#xedb1;&#xe634;.&#xe634;",
+            "onlinePay": 1,
+            "bulletin": "",
+            "discountRestrict": -1,
+            "distance": "&#xe01c;.&#xe01c;km",
+            "bizCode": 0,
+            "shipping_time": "&#xe634;&#xe2d1;:&#xe634;&#xe634;-&#xedb1;&#xe716;:&#xf8cd;&#xe634;"
+        },
+        "pageCategoryList": [],
+        "categoryList": [{
+                "tag": "100",
+                "activityTag": "",
+                "iconUrl": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+                "categoryName": "热销",
+                "categoryType": 1,
+                "spuList": [{
+                        "spuName": "土豆片/串",
+                        "unit": "串",
+                        "spuId": 1575280008,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/47f820e3c3a622930606d17c3daa8db2124986.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/47f820e3c3a622930606d17c3daa8db2124986.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe423;&#xe01c;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "土豆片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867924,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 96,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "鹌鹑蛋/串",
+                        "unit": "串",
+                        "spuId": 1575280004,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/317f7515ea4707266570fa7d8a4334bf116054.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/317f7515ea4707266570fa7d8a4334bf116054.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xf8cd;&#xe01c;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "鹌鹑蛋、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830166,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 19,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "藕片/串",
+                        "unit": "串",
+                        "spuId": 1575202387,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/453cd12a423d41ce441c3f011e727bad159445.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/453cd12a423d41ce441c3f011e727bad159445.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe716;&#xf8cd;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "藕片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795310,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 97,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "掌中宝/串",
+                        "unit": "串",
+                        "spuId": 1575280000,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/bacf04f59ba8320b70a25a0075bf856398240.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/bacf04f59ba8320b70a25a0075bf856398240.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe716;&#xe716;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "掌中宝、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830162,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "串串金针菇/串",
+                        "unit": "串",
+                        "spuId": 1575241894,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/63af43ca1e4c3a47f5b998d5ba42ed81172874.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/63af43ca1e4c3a47f5b998d5ba42ed81172874.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe634;&#xe716;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "干豆皮、金针菇、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867905,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鱼豆腐/串",
+                        "unit": "串",
+                        "spuId": 1575202389,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/26780ffa12812343dde745ad1a47dbe8120844.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/26780ffa12812343dde745ad1a47dbe8120844.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe2d1;&#xf8cd;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "鱼豆腐、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867923,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鸡爪/串",
+                        "unit": "串",
+                        "spuId": 1575241907,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/0aeee313b56712672bc0648f42d7b09b128602.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/0aeee313b56712672bc0648f42d7b09b128602.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xe423;",
+                        "originPrice": 6.0,
+                        "currentPrice": 6.0,
+                        "spuDesc": "鸡爪、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830161,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 6.0,
+                            "currentPrice": 6.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "海带/串",
+                        "unit": "串",
+                        "spuId": 1575241899,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/7df1489486ad26bfc3d7cabb378df96954931.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/7df1489486ad26bfc3d7cabb378df96954931.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xe423;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "海带片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830152,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 15,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "甜辣鸭脖223g/份",
+                        "unit": "",
+                        "spuId": 1575241927,
+                        "tag": "105257996",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/525b357f8249fb43ed40cfcba8fc5c7e468128.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/525b357f8249fb43ed40cfcba8fc5c7e468128.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xed25;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭脖、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe716;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867946,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "木耳/串",
+                        "unit": "串",
+                        "spuId": 1575202369,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/4b061877063986b7c031f1550718d6ea125963.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/4b061877063986b7c031f1550718d6ea125963.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed25;&#xed35;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "木耳、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795292,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 17,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "105257992",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "玩儿串串",
+                "categoryType": 0,
+                "spuList": [{
+                        "spuName": "亲亲肠",
+                        "unit": "3个",
+                        "spuId": 1635651692,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/e7d8f655b1a71574f2c3d50771f32d3d327992.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/e7d8f655b1a71574f2c3d50771f32d3d327992.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xedb1;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1861410606,
+                            "spec": "(3个)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "魔芋结",
+                        "unit": "3个",
+                        "spuId": 1635639038,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/9b0f6f135357961fc5cff0de85be49d1283500.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/9b0f6f135357961fc5cff0de85be49d1283500.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;&#xedb1;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1861403235,
+                            "spec": "(3个)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "串串金针菇/串",
+                        "unit": "串",
+                        "spuId": 1575241894,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/63af43ca1e4c3a47f5b998d5ba42ed81172874.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/63af43ca1e4c3a47f5b998d5ba42ed81172874.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe634;&#xe716;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "干豆皮、金针菇、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867905,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "串串虾饺/串",
+                        "unit": "串",
+                        "spuId": 1575241897,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/583a89bcef701f462bdb048b574ced98130040.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/583a89bcef701f462bdb048b574ced98130040.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xe2d1;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "虾饺、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830149,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 20,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "豆节/串",
+                        "unit": "串",
+                        "spuId": 1575241898,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/f713f0504b808eb2ad528ed1f739ca4b21667.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/f713f0504b808eb2ad528ed1f739ca4b21667.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;&#xe2d1;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "豆节、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795290,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 9998,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "海带/串",
+                        "unit": "串",
+                        "spuId": 1575241899,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/7df1489486ad26bfc3d7cabb378df96954931.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/7df1489486ad26bfc3d7cabb378df96954931.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xe423;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "海带片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830152,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 15,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "木耳/串",
+                        "unit": "串",
+                        "spuId": 1575202369,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/4b061877063986b7c031f1550718d6ea125963.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/4b061877063986b7c031f1550718d6ea125963.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed25;&#xed35;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "木耳、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795292,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 17,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鸡爪/串",
+                        "unit": "串",
+                        "spuId": 1575241907,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/0aeee313b56712672bc0648f42d7b09b128602.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/0aeee313b56712672bc0648f42d7b09b128602.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xe423;",
+                        "originPrice": 6.0,
+                        "currentPrice": 6.0,
+                        "spuDesc": "鸡爪、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830161,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 6.0,
+                            "currentPrice": 6.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "掌中宝/串",
+                        "unit": "串",
+                        "spuId": 1575280000,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/bacf04f59ba8320b70a25a0075bf856398240.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/bacf04f59ba8320b70a25a0075bf856398240.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe716;&#xe716;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "掌中宝、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830162,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 18,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "千张/串",
+                        "unit": "串",
+                        "spuId": 1575241909,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/6ed8b9e279a13ce4f0dbcee468998b8d165477.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/6ed8b9e279a13ce4f0dbcee468998b8d165477.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed25;&#xe716;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "千张、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830165,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 19,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鹌鹑蛋/串",
+                        "unit": "串",
+                        "spuId": 1575280004,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/317f7515ea4707266570fa7d8a4334bf116054.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/317f7515ea4707266570fa7d8a4334bf116054.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xf8cd;&#xe01c;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "鹌鹑蛋、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830166,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 19,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "西兰花/串",
+                        "unit": "串",
+                        "spuId": 1575241911,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/92a8688647aeab070220f1963292ec43173089.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/92a8688647aeab070220f1963292ec43173089.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe01c;&#xe2d1;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "西兰花、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830169,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鱼肉丸/串",
+                        "unit": "串",
+                        "spuId": 1575202385,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/beb6262637d431c7641eb1a928c52d08111321.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/beb6262637d431c7641eb1a928c52d08111321.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;&#xed35;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "鱼肉丸、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795307,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 99,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "藕片/串",
+                        "unit": "串",
+                        "spuId": 1575202387,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/453cd12a423d41ce441c3f011e727bad159445.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/453cd12a423d41ce441c3f011e727bad159445.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe716;&#xf8cd;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "藕片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795310,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 97,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "香菇/串",
+                        "unit": "串",
+                        "spuId": 1575202388,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/c63b1fd6d0f208cba06330b8b03a7810131703.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/c63b1fd6d0f208cba06330b8b03a7810131703.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe01c;&#xe716;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "香菇、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867922,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 99,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "鱼豆腐/串",
+                        "unit": "串",
+                        "spuId": 1575202389,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/26780ffa12812343dde745ad1a47dbe8120844.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/26780ffa12812343dde745ad1a47dbe8120844.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe2d1;&#xf8cd;",
+                        "originPrice": 2.0,
+                        "currentPrice": 2.0,
+                        "spuDesc": "鱼豆腐、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867923,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.0,
+                            "currentPrice": 2.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "竹笋/串",
+                        "unit": "串",
+                        "spuId": 1575202390,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/7e5d2fec5ff0ff7b5dcb1257b2a432d194546.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/7e5d2fec5ff0ff7b5dcb1257b2a432d194546.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed35;&#xed25;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "竹笋、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795311,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "土豆片/串",
+                        "unit": "串",
+                        "spuId": 1575280008,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/47f820e3c3a622930606d17c3daa8db2124986.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/47f820e3c3a622930606d17c3daa8db2124986.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe423;&#xe01c;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "土豆片、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867924,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 96,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/e4384905366c1a4d3a3d8c7831c79f7c1346.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "千叶豆腐/串",
+                        "unit": "串",
+                        "spuId": 1575280010,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/9cffe3b161ff018702bb2ccb12ac4fe4134182.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/9cffe3b161ff018702bb2ccb12ac4fe4134182.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xed35;",
+                        "originPrice": 3.0,
+                        "currentPrice": 3.0,
+                        "spuDesc": "千叶豆腐 、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795313,
+                            "spec": "(串)",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.0,
+                            "currentPrice": 3.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "牛肚/串",
+                        "unit": "串",
+                        "spuId": 1575202368,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/4cb408becb71e11a6430169c09eafc2221722.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/4cb408becb71e11a6430169c09eafc2221722.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xe2d1;",
+                        "originPrice": 6.0,
+                        "currentPrice": 6.0,
+                        "spuDesc": "牛肚、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830150,
+                            "spec": "(串)",
+                            "soldStatus": 1,
+                            "realStock": 0,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 6.0,
+                            "currentPrice": 6.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    },
+                    {
+                        "spuName": "开花肠/串",
+                        "unit": "串",
+                        "spuId": 1575202383,
+                        "tag": "105257992",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/3b0ac7f0648dec38f88c29d176eca73520710.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/3b0ac7f0648dec38f88c29d176eca73520710.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;&#xedb1;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "开花肠、食用盐、味精、白砂糖、鸡粉调味料、辣椒、香辛料",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 1,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830164,
+                            "spec": "(串)",
+                            "soldStatus": 1,
+                            "realStock": 0,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "已售罄"
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "105257994",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "武汉原味（微辣）散称",
+                "categoryType": 0,
+                "spuList": [{
+                        "spuName": "素拌菜（麻辣口味）",
+                        "unit": "234克",
+                        "spuId": 1656355656,
+                        "tag": "105257994",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/16c281f36ac1533189a091be59348173190520.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/16c281f36ac1533189a091be59348173190520.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xedb1;",
+                        "originPrice": 10.0,
+                        "currentPrice": 10.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1883288556,
+                            "spec": "(234克)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 10.0,
+                            "currentPrice": 10.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "武汉原味脆脆肠160g/份（微辣）",
+                        "unit": "",
+                        "spuId": 1575280018,
+                        "tag": "105257994",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/a6835ef9db0a7be09f064ff44ffcd297398674.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/a6835ef9db0a7be09f064ff44ffcd297398674.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xe239;",
+                        "originPrice": 25.0,
+                        "currentPrice": 25.0,
+                        "spuDesc": "鸭食管、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867937,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 492,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 25.0,
+                            "currentPrice": 25.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "武汉原味锁骨222g/份（微辣）",
+                        "unit": "",
+                        "spuId": 1575202396,
+                        "tag": "105257994",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/e9eee6e102236de595e0ba27b8909ae5405947.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/e9eee6e102236de595e0ba27b8909ae5405947.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xed35;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭锁骨、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867940,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 485,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "武汉原味鸭翅226g/份（微辣）",
+                        "unit": "",
+                        "spuId": 1575280021,
+                        "tag": "105257994",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/4a3abaa4eb0f32ce4962bb6152980d61380333.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/4a3abaa4eb0f32ce4962bb6152980d61380333.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xe239;",
+                        "originPrice": 23.0,
+                        "currentPrice": 23.0,
+                        "spuDesc": "鸭翅、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795318,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 35,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 23.0,
+                            "currentPrice": 23.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "武汉原味鸭脖223g/份（微辣）",
+                        "unit": "",
+                        "spuId": 1575280022,
+                        "tag": "105257994",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/4e645b4c9b63bcf1c59d65b05971ed6d369739.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/4e645b4c9b63bcf1c59d65b05971ed6d369739.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xe239;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭脖、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe716;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795319,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 477,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "105257995",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "不辣系列（散称）",
+                "categoryType": 0,
+                "spuList": [{
+                        "spuName": "卤猪蹄（不辣）220g/份",
+                        "unit": "",
+                        "spuId": 1575241921,
+                        "tag": "105257995",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/4cc233a0674fca58c226405d9b3932c6373230.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/4cc233a0674fca58c226405d9b3932c6373230.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xedb1;",
+                        "originPrice": 25.0,
+                        "currentPrice": 25.0,
+                        "spuDesc": "猪蹄、食用盐、白砂糖、味精、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867941,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 99,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 25.0,
+                            "currentPrice": 25.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "不辣鸭头3个/份",
+                        "unit": "",
+                        "spuId": 1575241922,
+                        "tag": "105257995",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/9ed9022578ab77b9e419ba60319de34f403741.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/9ed9022578ab77b9e419ba60319de34f403741.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed35;&#xe716;",
+                        "originPrice": 22.5,
+                        "currentPrice": 22.5,
+                        "spuDesc": "鸭头、食用盐、白砂糖、味精、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867942,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 10,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 22.5,
+                            "currentPrice": 22.5,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "不辣鸭翅226g/份",
+                        "unit": "",
+                        "spuId": 1575241924,
+                        "tag": "105257995",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/4e6129813c2e6a74b47b8f418fb4d213414772.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/4e6129813c2e6a74b47b8f418fb4d213414772.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 23.0,
+                        "currentPrice": 23.0,
+                        "spuDesc": "鸭翅、食用盐、白砂糖、味精、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830177,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 50,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 23.0,
+                            "currentPrice": 23.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "不辣鸭锁骨222g/份",
+                        "unit": "",
+                        "spuId": 1575202399,
+                        "tag": "105257995",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/5e67734864918eec4e1f8903ce761060378237.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/5e67734864918eec4e1f8903ce761060378237.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe716;&#xed35;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭锁骨、食用盐、白砂糖、味精、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794830178,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 49,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "不辣鸭脖223g/份",
+                        "unit": "",
+                        "spuId": 1575202400,
+                        "tag": "105257995",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/2413bcc4b261c7d4ef6c58f6675c24da405882.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/2413bcc4b261c7d4ef6c58f6675c24da405882.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe2d1;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭脖、食用盐、白砂糖、味精、植物油、香辛料、食品添加剂（呈味核苷酸二钠）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795321,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 99,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "105257997",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "香辣系列（散称）",
+                "categoryType": 0,
+                "spuList": [{
+                    "spuName": "卤猪蹄（香辣）220g/份",
+                    "unit": "",
+                    "spuId": 1575280026,
+                    "tag": "105257997",
+                    "activityTag": "",
+                    "littleImageUrl": "http://p0.meituan.net/wmproduct/0f22edd8b10d150249be8e8aac64e81b339104.jpg",
+                    "bigImageUrl": "http://p0.meituan.net/wmproduct/0f22edd8b10d150249be8e8aac64e81b339104.jpg",
+                    "saleVolume": 0,
+                    "saleVolumeDecoded": "&#xf8cd;&#xe239;",
+                    "originPrice": 25.0,
+                    "currentPrice": 25.0,
+                    "spuDesc": "猪蹄、香料、红花椒、石柱红（整）、生姜、精盐、味精、鸡精、鸡粉、冰糖、白胡椒粉、麦芽酚、糖色、白酒、辣椒、小葱、香辣酱、色拉油",
+                    "praiseNum": 0,
+                    "praiseNumDecoded": "&#xe634;",
+                    "sellStatus": 0,
+                    "activityType": 0,
+                    "skuList": [{
+                        "skuId": 1794867949,
+                        "spec": "",
+                        "soldStatus": 0,
+                        "realStock": 99,
+                        "activityStock": 0,
+                        "minPurchaseNum": -1,
+                        "restrict": -1,
+                        "originPrice": 25.0,
+                        "currentPrice": 25.0,
+                        "boxFee": 0.0,
+                        "skuPromotionInfo": "",
+                        "count": 0
+                    }],
+                    "spuAttrList": [],
+                    "spuPromotionInfo": "",
+                    "activityPolicy": {
+                        "discountByCount": {
+                            "count": 0,
+                            "discount": 1.0
+                        }
+                    },
+                    "statusDesc": ""
+                }],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "105257996",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "甜辣系列（散称）",
+                "categoryType": 0,
+                "spuList": [{
+                        "spuName": "甜辣鸭头3个/份",
+                        "unit": "",
+                        "spuId": 1575202401,
+                        "tag": "105257996",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/9ed9022578ab77b9e419ba60319de34f403741.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/9ed9022578ab77b9e419ba60319de34f403741.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xe239;",
+                        "originPrice": 22.5,
+                        "currentPrice": 22.5,
+                        "spuDesc": "鸭头、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795322,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 10,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 22.5,
+                            "currentPrice": 22.5,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "甜辣鸭锁骨222g份",
+                        "unit": "",
+                        "spuId": 1575241925,
+                        "tag": "105257996",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/e9eee6e102236de595e0ba27b8909ae5405947.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/e9eee6e102236de595e0ba27b8909ae5405947.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xf8cd;&#xedb1;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭锁骨、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794795323,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 50,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "甜辣鸭脖223g/份",
+                        "unit": "",
+                        "spuId": 1575241927,
+                        "tag": "105257996",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/525b357f8249fb43ed40cfcba8fc5c7e468128.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/525b357f8249fb43ed40cfcba8fc5c7e468128.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe239;&#xed25;",
+                        "originPrice": 20.0,
+                        "currentPrice": 20.0,
+                        "spuDesc": "鸭脖、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe716;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867946,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 100,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 20.0,
+                            "currentPrice": 20.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "甜辣鸭翅226g/份",
+                        "unit": "",
+                        "spuId": 1575280024,
+                        "tag": "105257996",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/51fa9832c640357b2336b8ddad4d2af7430343.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/51fa9832c640357b2336b8ddad4d2af7430343.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe01c;&#xed35;",
+                        "originPrice": 23.0,
+                        "currentPrice": 23.0,
+                        "spuDesc": "鸭翅、食用盐、白砂糖、味精、辣椒、植物油、香辛料、食品添加剂（呈味核苷酸二钠、）",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1794867947,
+                            "spec": "",
+                            "soldStatus": 0,
+                            "realStock": 49,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 23.0,
+                            "currentPrice": 23.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            },
+            {
+                "tag": "106355606",
+                "activityTag": "",
+                "iconUrl": "",
+                "categoryName": "饮用水",
+                "categoryType": 0,
+                "spuList": [{
+                        "spuName": "雪碧",
+                        "unit": "500克",
+                        "spuId": 1661628310,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/80007411302790ff5ca82c3ef68b686d291926.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/80007411302790ff5ca82c3ef68b686d291926.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1888951991,
+                            "spec": "(500克)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "可口可乐零度",
+                        "unit": "500克",
+                        "spuId": 1661420447,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/bb029dfccca49e0ead859e1f9af0fc5277824.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/bb029dfccca49e0ead859e1f9af0fc5277824.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed35;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1888875258,
+                            "spec": "(500克)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "可口可乐",
+                        "unit": "500克",
+                        "spuId": 1661664615,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/31d55a0b3b567c6203b8f76ef470e12112288.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/31d55a0b3b567c6203b8f76ef470e12112288.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1888590844,
+                            "spec": "(500克)",
+                            "soldStatus": 0,
+                            "realStock": 24,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": "",
+                        "productLabelPictureList": [{
+                            "pictureUrl": "http://p0.meituan.net/aichequan/a6118176c9bf22b6066fe4eba95c75d41341.png",
+                            "width": "60",
+                            "height": "30"
+                        }]
+                    },
+                    {
+                        "spuName": "统一鲜橙",
+                        "unit": "500ml",
+                        "spuId": 1596411474,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/xianfu/8fbb3cd7a2d29209f44fe241d4cebf0a126976.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/xianfu/8fbb3cd7a2d29209f44fe241d4cebf0a126976.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818370905,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "统一冰红茶",
+                        "unit": "500ml",
+                        "spuId": 1596467925,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/9a9777e4f43e6468559dd19ca14aa1cf120832.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/9a9777e4f43e6468559dd19ca14aa1cf120832.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818463288,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "统一绿茶",
+                        "unit": "500ml",
+                        "spuId": 1596349195,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/ba4c5d8aae5c9a7830deac1abb1ae20c114688.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/ba4c5d8aae5c9a7830deac1abb1ae20c114688.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed35;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818407326,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "统一冰糖雪",
+                        "unit": "500ml",
+                        "spuId": 1596409904,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/14509104c1a49482e04fb4209e2054e492160.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/14509104c1a49482e04fb4209e2054e492160.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818347344,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "康师傅茉莉蜜茶",
+                        "unit": "500ml",
+                        "spuId": 1596295097,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/944e5dc11c090c427af9513599c4f80b137216.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/944e5dc11c090c427af9513599c4f80b137216.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818496344,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "康师傅茉莉清茶",
+                        "unit": "500ml",
+                        "spuId": 1596295050,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/9f75f47fa46ce082821425562867153b41993.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/9f75f47fa46ce082821425562867153b41993.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xed35;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818406600,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "康师傅绿茶",
+                        "unit": "500ml",
+                        "spuId": 1596409269,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/3b20c9490e1cd72c25d573117f847f8f227328.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/3b20c9490e1cd72c25d573117f847f8f227328.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 4.0,
+                        "currentPrice": 4.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818346285,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 4.0,
+                            "currentPrice": 4.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "农夫山泉西柚汁味水溶",
+                        "unit": "445ml",
+                        "spuId": 1596466664,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/wmproduct/ee541333b0a35b49b64d8b39adae543a22887.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/wmproduct/ee541333b0a35b49b64d8b39adae543a22887.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xedb1;",
+                        "originPrice": 5.5,
+                        "currentPrice": 5.5,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818495902,
+                            "spec": "(445ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 5.5,
+                            "currentPrice": 5.5,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "百岁山矿泉水",
+                        "unit": "570ml",
+                        "spuId": 1596294613,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/8e4c6344479163a2ea10a4634f98f86f32129.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/8e4c6344479163a2ea10a4634f98f86f32129.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 3.5,
+                        "currentPrice": 3.5,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818495436,
+                            "spec": "(570ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 3.5,
+                            "currentPrice": 3.5,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "农夫山泉 乌龙茶",
+                        "unit": "500ml",
+                        "spuId": 1596386788,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p0.meituan.net/wmproduct/24bcf953fd9266c5cc195afff0b513f139437.jpg",
+                        "bigImageUrl": "http://p0.meituan.net/wmproduct/24bcf953fd9266c5cc195afff0b513f139437.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 6.0,
+                        "currentPrice": 6.0,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818460219,
+                            "spec": "(500ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 6.0,
+                            "currentPrice": 6.0,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    },
+                    {
+                        "spuName": "农夫山泉矿泉水",
+                        "unit": "550ml",
+                        "spuId": 1596406889,
+                        "tag": "106355606",
+                        "activityTag": "",
+                        "littleImageUrl": "http://p1.meituan.net/xianfu/bb7e016dbaf7b5e744022c2d192730c690112.jpg",
+                        "bigImageUrl": "http://p1.meituan.net/xianfu/bb7e016dbaf7b5e744022c2d192730c690112.jpg",
+                        "saleVolume": 0,
+                        "saleVolumeDecoded": "&#xe634;",
+                        "originPrice": 2.5,
+                        "currentPrice": 2.5,
+                        "spuDesc": "",
+                        "praiseNum": 0,
+                        "praiseNumDecoded": "&#xe634;",
+                        "sellStatus": 0,
+                        "activityType": 0,
+                        "skuList": [{
+                            "skuId": 1818490825,
+                            "spec": "(550ml)",
+                            "soldStatus": 0,
+                            "realStock": -1,
+                            "activityStock": 0,
+                            "minPurchaseNum": -1,
+                            "restrict": -1,
+                            "originPrice": 2.5,
+                            "currentPrice": 2.5,
+                            "boxFee": 0.0,
+                            "skuPromotionInfo": "",
+                            "count": 0
+                        }],
+                        "spuAttrList": [],
+                        "spuPromotionInfo": "",
+                        "activityPolicy": {
+                            "discountByCount": {
+                                "count": 0,
+                                "discount": 1.0
+                            }
+                        },
+                        "statusDesc": ""
+                    }
+                ],
+                "end": true,
+                "nextPageIndex": 0
+            }
+        ],
+        "shoppingCart": {
+            "minFeeForCartTip": 14.0,
+            "promptText": ""
+        }
+    },
+    "code": 0,
+    "msg": "成功"
+}
