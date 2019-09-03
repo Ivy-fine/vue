@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# muen
+# ajuan
 
 ## Project setup
 ```
@@ -28,7 +27,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# vue
-vue练习
->>>>>>> 6b035f28f4726b33dcfad7ee69750ad26ff67c6e
